@@ -15,6 +15,6 @@ def parse_date(stoping_date):
     return datetime_object
 
 
-#stoping_date = input("When did you stoped smoking (dd-mm-yyyy)? ")
+# stoping_date = input("When did you stoped smoking (dd-mm-yyyy)? ")
 
-#print(how_many_days(parse_date(stoping_date)))
+# print(how_many_days(parse_date(stoping_date)))
